@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request>
+    <Source>
+        <RequestorID Client="123456" EMailAddress="clientName@client.co.uk" Password="clientPassword" />
+        <RequestorPreferences Language="en">
+            <RequestMode>SYNCHRONOUS</RequestMode>
+        </RequestorPreferences>
+    </Source>
+    <RequestDetails>
+        <SearchCountryRequest>
+        </SearchCountryRequest>
+    </RequestDetails>
+</Request>

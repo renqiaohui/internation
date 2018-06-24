@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Request>
+    <Source>
+        <RequestorID Client="135" EMailAddress="XML@HKFANYI.COM" Password="PASS"/>
+        <RequestorPreferences Language="en" Currency="CNY">
+            <RequestMode>SYNCHRONOUS</RequestMode>
+        </RequestorPreferences>
+    </Source>
+    <RequestDetails>
+        <SearchHotelPricePaxRequest>
+            <ItemDestination />
+            <ItemCode />
+            <PeriodOfStay>
+                <CheckInDate>2018-06-12</CheckInDate>
+                <Duration>30</Duration>
+            </PeriodOfStay>
+            <IncludePriceBreakdown/>
+            <IncludeChargeConditions DateFormatResponse="true"/>
+            <PaxRooms />
+        </SearchHotelPricePaxRequest>
+    </RequestDetails>
+</Request>

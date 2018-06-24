@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request>
+    <Source>
+        <RequestorID Client="135" EMailAddress="XML@HKFANYI.COM" Password="PASS" />
+        <RequestorPreferences Language="en">
+            <RequestMode>SYNCHRONOUS</RequestMode>
+        </RequestorPreferences>
+    </Source>
+    <RequestDetails>
+        <SearchCurrencyRequest>
+        </SearchCurrencyRequest>
+    </RequestDetails>
+</Request>

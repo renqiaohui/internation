@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request>
+    <Source>
+        <RequestorID Client="" EMailAddress=" " Password=""/>
+        <RequestorPreferences>
+            <RequestMode>SYNCHRONOUS</RequestMode>
+        </RequestorPreferences>
+    </Source>
+    <RequestDetails>
+        <CancelBookingRequest>
+            <BookingReference ReferenceSource="api">20382</BookingReference>
+        </CancelBookingRequest>
+    </RequestDetails>
+</Request>

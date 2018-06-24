@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Request>
+    <Source>
+        <RequestorID Client="1483" EMailAddress="M@C.IE" Password="m"/>
+        <RequestorPreferences Language="en" Currency="GBP">
+            <RequestMode>SYNCHRONOUS</RequestMode>
+        </RequestorPreferences>
+    </Source>
+    <RequestDetails>
+        <AddBookingRequest Currency="GBP">
+
+        </AddBookingRequest>
+    </RequestDetails>
+</Request>
